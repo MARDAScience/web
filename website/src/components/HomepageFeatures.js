@@ -4,13 +4,14 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Science Communication, Editing',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Science Communication',
+    Svg: require('../../static/img/pfunk.svg').default,
     description: (
       <>
       <ul>
-            <li>Report writing and editing / Public Outreach</li>
-            <li>Stakeholder engagement / Event organizing</li>
+            <li>Writing and editing, proofreading, review</li>
+            <li>Public outreach and stakeholder engagement</li>
+            <li>Event organizing</li>
             <li>Science as Art, and Scientific Art</li>
       </ul>
       </>
@@ -18,26 +19,27 @@ const FeatureList = [
   },
   {
     title: 'Education and training',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/teach.svg').default,
     description: (
       <>
       <ul>
-            <li>Deep Learning / Machine Learning / Python </li>
-            <li>Science Communication / Sustainability</li>
+            <li>Science Communication, Environmental Justice</li>
+            <li>Conservation, Sustainability</li>
             <li>Curriculum development</li>
+            <li>Deep Learning / Machine Learning / Python </li>
       </ul>
       </>
     ),
   },
   {
-    title: 'Data analytics, AI',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Environmental data analytics, AI',
+    Svg: require('../../static/img/cv.svg').default,
     description: (
       <>
       <ul>
-            <li>Machine Learning</li>
-            <li>Big Geospatial Data</li>
-            <li>Open source software</li>
+            <li>Machine/Deep Learning</li>
+            <li>Image processing and analysis</li>
+            <li>Open source software and practices</li>
       </ul>
       </>
     ),

@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Marda Science',
-  tagline: 'Communications | Analytics',
+  title: 'MARDA SCIENCE',
+  tagline: '{Communications | Analytics | Training} for the {Marine | Earth | Life} Sciences',
   url: 'http://mardascience.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',

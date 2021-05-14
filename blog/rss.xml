@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Marda Science Blog</title>
-        <link>https://MARDAScience.github.io/web/blog</link>
+        <link>https://MARDAScience.github.io/blog</link>
         <description>Marda Science Blog</description>
         <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>

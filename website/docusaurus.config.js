@@ -2,8 +2,8 @@
 module.exports = {
   title: 'Marda Science',
   tagline: 'Communications | Analytics',
-  url: 'https://MARDAScience.github.io',
-  baseUrl: '/web/',
+  url: 'http://mardascience.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

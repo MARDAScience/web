@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Hi, we're Maria and Dan
 
-Site under development
+Site under development ... 
 
 Please email daniel@mardascience.com or maria@mardascience.com and we'd be happy to talk with you
 

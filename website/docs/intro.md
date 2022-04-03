@@ -6,7 +6,9 @@ sidebar_position: 1
 
 ![](../static/img/2019-08-24.jpg)
 
-... and we're a science consultancy. This website is new and still under development, but please email daniel / maria {at} mardascience {dot} com and we'd be happy to talk with you!
+... and we're a tiny science consultancy. 
+
+> This website is new and still under development, but please email {daniel} or {maria} {at} mardascience {dot} com and I would be happy to talk with you!
 
 While we 'get our act together' as we migrate from website external hosting to self-hosting (blog post [here](../blog/this-website)), here is a brief summary of our respective skills and experiences:
 
@@ -23,16 +25,17 @@ I am a marine scientist who has been working in research for 15 years, and I am 
 
 ![](../static/img/dan-yellow-small.jpg)
 
-I am a data scientist and quantitative geomorphologist. I work on problems related to how we apply and use new and/or large data sets and computational techniques to applied problems in geomorphology, ecology, oceanography, and hydrology. This work involves:
+I am a data scientist and quantitative geoscientist working in aquatic environments on topics in ecology,oceanography, hydrology, and geomorphology. I work on problems related to how we apply and use new and/or large data sets and computational techniques to applied environmental problems and research questions. This work involves:
 * Investigating how we re-purpose existing instrumentation capabilities to measure additional properties of interest in natural environments
 * Algorithm and model development to develop proxies between remotely sensed signals and physical (and biological) properties
 * Research into machine learning and inverse methods, data simulation, fusion, and assimilation
 * Coding; my "techstack" includes python, tensorflow, keras, opencv, GDAL, conda, git, bash, cython, C++, fortran, matlab, latex, markdown, nginx/gunicorn, unix, linux, HPC, slurm, Google Cloud
 
-A lot of this work has been supported by the US Geological Survey and other governmental agencies, working on applied river and coastal geomorphology while at the USGS Grand Canyon Monitoring and Research Center in Flagstaff, AZ (2012-2016), then at Northern Arizona University (2016-2020), and now as a contractor for the USGS Pacific Coastal and Marine Science Center (PCMSC) in Santa Cruz, CA. Prior to that, I carried out post-doctoral research at PCMSC (2008-2009) and did my PhD (2004-2008) and yet more post-doctoral research (2009-2012) at the University of Plymouth, UK, in the (then) School fo Marine Science and Engineering.
+A lot of this work has been supported by the US Geological Survey, U.S. Fish and Wildlife Service, and other governmental and state agencies, working on applied river and coastal ecology and geomorphology while at the USGS Grand Canyon Monitoring and Research Center in Flagstaff, AZ (2012-2016), then at Northern Arizona University (2016-2020), and now as a contractor for the USGS Pacific Coastal and Marine Science Center (PCMSC) in Santa Cruz, CA. Prior to that, I carried out post-doctoral research at PCMSC (2008-2009) and did my PhD (2004-2008) and yet more post-doctoral research (2009-2012) at the University of Plymouth, UK, in the (then) School of Marine Science and Engineering.
 
 I have always worked in aquatic (freshwater, coastal and marine) systems, combining field, theoretical, and experimental approaches to the field of sediment transport, hydrodynamics, and computational eco-hydro-sediment acoustics and optics. I specialize in developing data-driven methods, principally for monitoring sedimentary systems such as alluvial rivers, lake beds, and coastal environments. These methods take some form of data, such as a photograph from a conventional camera, an underwater hologram, or echogram from a multibeam sonar, and extracts some extra type of information that makes the pursuit of collecting such data for environmental monitoring and research. Examples of projects where I have done this include (often in multiple applied contexts to add value to public-funded research):
 
+* Estimating aquatic vegetation and sediments from sonar and photographs (several methods)
 * Estimating grain size of sediment from photographs (several methods)
 * Estimating sediment facies and bethic substrate mapping from sidescan and multibeam sonar (several methods)
 * Estimating ocean wave height and period, and wave breaker type, from photographs of beach surf zones

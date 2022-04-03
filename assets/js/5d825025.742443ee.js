@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[896],{678:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/web/blog/tags","slug":"scicomm","name":"scicomm","count":1,"permalink":"/web/blog/tags/scicomm"}')}}]);

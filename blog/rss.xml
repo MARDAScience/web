@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[This website]]></title>
-            <link>http://mardascience.com/blog/this-website</link>
+            <link>http://mardascience.com/web/blog/this-website</link>
             <guid>this-website</guid>
             <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[How did we set up this Marda science website? It was a rocky road ... we initially paid for a commercial WordPress hosting which was, well, let's just say awful and move on!]]></description>

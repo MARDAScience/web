@@ -6,11 +6,9 @@ sidebar_position: 1
 
 ![](../static/img/2019-08-24.jpg)
 
-... and we're a tiny science consultancy. 
+... and we're a tiny science consultancy.
 
-> This website is new and still under development, but please email {daniel} or {maria} {at} mardascience {dot} com and I would be happy to talk with you!
-
-While we 'get our act together' as we migrate from website external hosting to self-hosting (blog post [here](../blog/this-website)), here is a brief summary of our respective skills and experiences:
+> This website is new and still under development, but please email {daniel} or {maria} {at} mardascience {dot} com and I would be happy to talk with you! While we 'get our act together' as we migrate from website external hosting to self-hosting (blog post [here](../blog/this-website)), here is a brief summary of our respective skills and experiences:
 
 ## Dr Maria Campbell
 
@@ -25,7 +23,8 @@ I am a marine scientist who has been working in research for 15 years, and I am 
 
 ![](../static/img/dan-yellow-small.jpg)
 
-I am a data scientist and quantitative geoscientist working in aquatic environments on topics in ecology,oceanography, hydrology, and geomorphology. I work on problems related to how we apply and use new and/or large data sets and computational techniques to applied environmental problems and research questions. This work involves:
+I am a data scientist and quantitative geoscientist working in aquatic environments on topics in ecology,oceanography, hydrology, and geomorphology. I work on problems related to how we apply and use new and/or large data sets and computational techniques to applied environmental problems and research questions. This work involves things like:
+
 * Investigating how we re-purpose existing instrumentation capabilities to measure additional properties of interest in natural environments
 * Algorithm and model development to develop proxies between remotely sensed signals and physical (and biological) properties
 * Research into machine learning and inverse methods, data simulation, fusion, and assimilation
